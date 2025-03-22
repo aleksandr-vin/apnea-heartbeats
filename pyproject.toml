@@ -1,7 +1,7 @@
 [project]
 name = "apnea-heartbeats"
 version = "0.1.0"
-description = "Add your description here"
+description = "APNEA Heartbeats research tool"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
